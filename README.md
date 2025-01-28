@@ -1,2 +1,2 @@
 # yogh-content
-Plugin Wordpress - rodapéde blog posts
+Plugin Wordpress - rodapé de blog posts
